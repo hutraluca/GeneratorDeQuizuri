@@ -3,7 +3,7 @@
     "id": "m1",
     "category": "matematica",
     "type": "multiple",
-    "questions": "Care este valoarea lui pi cu 2 zecimale?",
+    "question": "Care este valoarea lui pi cu 2 zecimale?",
     "options": ["3.12", "3.14", "3.16", "3.18"],
     "answer": "B",
     "explanation": "Pi aproximat la 2 zecimale este 3.14."
@@ -12,9 +12,144 @@
     "id": "m2",
     "category": "matematica",
     "type": "multiple",
-    "questions": "Cat face 15x12?",
+    "question": "Cat face 15x12?",
     "options": ["180", "175", "185", "170"],
     "answer": "A",
     "explanation": "15x12=180."
+  },
+  {
+    "id": "m3",
+    "category": "matematica",
+    "type": "multiple",
+    "question": "Care este rezultatul lui 9 la puterea 2?",
+    "options": ["18", "81", "27", "72"],
+    "answer": "B",
+    "explanation": "9 la puterea 2 = 81."
+  },
+  {
+    "id": "m4",
+    "category": "matematica",
+    "type": "true_false",
+    "question": "Numarul 0 este par.",
+    "answer": "true",
+    "explanation": "0 este un numar par."
+  },
+  {
+    "id": "m5",
+    "category": "matematica",
+    "type": "short",
+    "question": "Cat face 100/4?",
+    "answer": "25",
+    "explanation": "100 impartit la 4 este 25."
+  },
+
+  {
+    "id": "g1",
+    "category": "geografie",
+    "type": "multiple",
+    "question": "Care este capitala Frantei?",
+    "options": ["Roma", "Berlin", "Madrid", "Paris"],
+    "answer": "D",
+    "explanation": "Capitala Frantei este Paris."
+  },
+  {
+    "id": "g2",
+    "category": "geografie",
+    "type": "multiple",
+    "question": "Cel mai lung fluviu din lume este:",
+    "options": ["Amazon", "Nil", "Dunarea", "Mississippi"],
+    "answer": "B",
+    "explanation": "Nilul este considerat cel mai lung fluviu."
+  },
+  {
+    "id": "g3",
+    "category": "geografie",
+    "type": "true_false",
+    "question": "Europa este un continent.",
+    "answer": "true",
+    "explanation": "Europa este unul dintre cele 7 continente."
+  },
+  {
+    "id": "g4",
+    "category": "geografie",
+    "type": "short",
+    "question": "In ce continent se afla Romania?",
+    "answer": "Europa",
+    "explanation": "Romania se afla in Europa."
+  },
+
+  {
+    "id": "h1",
+    "category": "istorie",
+    "type": "multiple",
+    "question": "In ce an a inceput Primul Razboi Mondial?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "answer": "B",
+    "explanation": "Primul Razboi Mondial a inceput in 1914."
+  },
+  {
+    "id": "h2",
+    "category": "istorie",
+    "type": "multiple",
+    "question": "Cine a fost primul presedinte al SUA?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "answer": "B",
+    "explanation": "George Washington a fost primul presedinte al SUA."
+  },
+  {
+    "id": "h3",
+    "category": "istorie",
+    "type": "true_false",
+    "question": "Al Doilea Razboi Mondial s-a incheiat in 1945.",
+    "answer": "true",
+    "explanation": "Razboiul s-a incheiat in 1945."
+  },
+  {
+    "id": "h4",
+    "category": "istorie",
+    "type": "short",
+    "question": "In ce an a avut loc Revolutia Romana?",
+    "answer": "1989",
+    "explanation": "Revolutia Romana a avut loc in 1989."
+  },
+
+  {
+    "id": "i1",
+    "category": "informatica",
+    "type": "multiple",
+    "question": "Ce limbaj este interpretat?",
+    "options": ["C", "C++", "Python", "Assembly"],
+    "answer": "C",
+    "explanation": "Python este un limbaj interpretat."
+  },
+  {
+    "id": "i2",
+    "category": "informatica",
+    "type": "multiple",
+    "question": "Ce inseama CPU?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Processing Unit"
+    ],
+    "answer": "B",
+    "explanation": "CPU = Central Processing Unit."
+  },
+  {
+    "id": "i3",
+    "category": "informatica",
+    "type": "true_false",
+    "question": "Python suporta programare orientate pe obiecte.",
+    "answer": "true",
+    "explanation": "Python este un limbaj OOP."
+  },
+  {
+    "id": "i4",
+    "category": "informatica",
+    "type": "short",
+    "question": "Cum se numeste structura de date LIFO?",
+    "answer": "stack",
+    "explanation": "LIFO = Last In, First Out ->stack."
   }
 ]
